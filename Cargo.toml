@@ -1,6 +1,11 @@
 [package]
-name = "task_manager1"
+name = "task_manager"
 version = "0.1.0"
-edition = "2021"
+authors = ["Daniel_garz"]
+edition = "2018"
 
 [dependencies]
+
+[[bin]]
+name = "your_executable_name"
+path = "src/main.rs"
