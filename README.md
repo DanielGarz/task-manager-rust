@@ -1,2 +1,2 @@
 # task-manager-rust
-This is a simple CLI program with rust in which you can manage your tasks through the terminal with ease.
+This is my first program with Rust programming language is a simple task manager program which you can run directly in the terminal.
