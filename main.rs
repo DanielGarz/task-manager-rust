@@ -1,6 +1,5 @@
 use std::io::{self, Write};
 
-// Define the Task structure
 struct Task {
     description: String,
     completed: bool,
@@ -19,7 +18,6 @@ impl Task {
     }
 }
 
-// Define the TaskManager structure
 struct TaskManager {
     tasks: Vec<Task>,
 }
